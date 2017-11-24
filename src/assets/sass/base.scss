@@ -27,11 +27,11 @@ button{
 
 .cabecalho {
     width: 100%;
-    height: 5em;
+    height: 6em;
     background: linear-gradient(180deg, #E3937C 0%, rgba(255, 255, 255, 0) 100%), #DE9081;
     text-align: center;
-
-
+    align-content: center;
+    display: grid;
 }
 
 .formulario{
