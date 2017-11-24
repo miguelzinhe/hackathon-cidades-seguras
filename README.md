@@ -1,15 +1,24 @@
 # App para Hackathon Cidades Seguras
 
-Esse projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli) para o Hackathon Cidades Seguras na [COLABORAMERICA 2017] (http://colaboramerica.org/) no Rio de Janeiro. 
+Esse projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli) para o Hackathon Cidades Seguras na [COLABORAMERICA 2017](http://colaboramerica.org/) no Rio de Janeiro. 
 
 ### Equipe:
 - [Miguel Soares](https://github.com/oieusouamiguel)
 - [Thaís da Silva](https://facebook.com/tha.is.52)
-- [Araci Queiroz] (https://www.facebook.com/araciqueiroz)
-- [Carlos Gama] (https://www.facebook.com/carlos.gama.5811)
-- [Marina] ()
-- [Gabriela] ()
-- [Clarissa] ()
+- [Araci Queiroz](https://www.facebook.com/araciqueiroz)
+- [Carlos Gama](https://www.facebook.com/carlos.gama.5811)
+- [Marina Albuquerque](https://www.facebook.com/marina)
+- [Gabriela Nascimento](https://www.facebook.com/gabifnascimento)
+- [Clarissa Leão](https://www.facebook.com/clarissa.leao.7)
+
+## Informações gerais
+Estamos usando as seguintes tecnologias:
+
+- [Angular CLI](https://github.com/angular/angular-cli)
+- [SASS](http://sass-lang.com/)
+- Firebase(https://firebase.google.com/)
+- [NPM](https://www.npmjs.com/)
+- [Grunt](https://gruntjs.com/)
 
 ## Rodar o servidor
 
@@ -31,6 +40,6 @@ Rode `ng test` para rodar testes unitários via [Karma](https://karma-runner.git
 
 Use `ng e2e` para executar testes end-to-end via [Protractor](http://www.protractortest.org/).
 
-## Further help
+## Mais ajuda
 
 Para ter mais ajuda sobre o Angular CLI rode `ng help` ou veja mais em [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
