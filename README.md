@@ -16,7 +16,7 @@ Estamos usando as seguintes tecnologias:
 
 - [Angular CLI](https://github.com/angular/angular-cli)
 - [SASS](http://sass-lang.com/)
-- Firebase(https://firebase.google.com/)
+- [Firebase](https://firebase.google.com/)
 - [NPM](https://www.npmjs.com/)
 - [Grunt](https://gruntjs.com/)
 
